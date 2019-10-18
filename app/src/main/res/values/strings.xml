@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AND-2.1.1 CheckBox</string>
+    <string name="payment_info">Информация об оплате</string>
+    <string name="ok">OK</string>
+    <string name="from_card">С банковской карты</string>
+    <string name="from_phone">С мобильного телефона</string>
+    <string name="cash">Наличными по адресу</string>
+    <string name="input_money">Ввод денег</string>
+</resources>
